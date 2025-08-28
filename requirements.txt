@@ -1,4 +1,4 @@
 streamlit==1.36.0
 langchain-openai==0.1.20
 langchain-community==0.2.7
-google-generativeai==0.7.0
+genai
